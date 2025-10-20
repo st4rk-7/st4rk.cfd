@@ -25,7 +25,7 @@ onUnmounted(() => {
 <template>
   <div class="hero-section flex items-center gap-4 mb-6 mt-4">
     <img
-      src="/avatar.png"
+      src="/avatar.jpg"
       alt="Sanjeew Shewon"
       class="hero-avatar"
     />
