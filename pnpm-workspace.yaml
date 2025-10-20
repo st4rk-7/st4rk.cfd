@@ -94,12 +94,14 @@ onlyBuiltDependencies:
   - sharp
   - simple-git-hooks
   - unrs-resolver
+  - workerd
 
 allowBuilds:
   esbuild: true
   exifreader: true
   sharp: true
   simple-git-hooks: true
+  workerd: true
 
 minimumReleaseAgeExclude:
   - '@iconify/json@2.2.478'
