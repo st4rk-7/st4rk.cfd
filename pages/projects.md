@@ -6,10 +6,10 @@ wrapperClass: 'text-center'
 art: dots
 projects:
   Embedded Systems:
-    - name: 'Project Template'
-      link: 'https://github.com/st4rk-7'
-      desc: 'Replace with your embedded systems project'
-      icon: 'i-carbon-chip'
+    - name: 'Kaizen-07'
+      link: 'https://github.com/st4rk-7/Kaizen-07'
+      desc: 'C++ firmware for a two-wheeled self-balancing robot with PID control & IMU sensor fusion.'
+      icon: 'i-carbon-bot'
     - name: 'Firmware Dev'
       link: 'https://github.com/st4rk-7'
       desc: 'Replace with your firmware project'
@@ -26,10 +26,10 @@ projects:
       icon: 'i-carbon-flash'
 
   Software & Tools:
-    - name: 'Web Project'
-      link: 'https://github.com/st4rk-7'
-      desc: 'Replace with your web/software project'
-      icon: 'i-carbon-application-web'
+    - name: 'NeuralNetwork'
+      link: 'https://github.com/st4rk-7/NeuralNetwork'
+      desc: 'Neural Network built from scratch in C++'
+      icon: 'i-carbon-machine-learning-model'
     - name: 'CLI Tool'
       link: 'https://github.com/st4rk-7'
       desc: 'Replace with your tool/utility project'

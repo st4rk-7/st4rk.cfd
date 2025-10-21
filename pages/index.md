@@ -20,11 +20,6 @@ I write [blog posts](/posts) about embedded systems, electronics, programming, a
 
 ---
 
-Find me on
+Connect
 
-<p flex="~ gap-2 wrap" class="mt--2!">
-  <a href="https://github.com/st4rk-7" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://www.linkedin.com/in/shewon-ss" target="_blank"><span op75 i-simple-icons-linkedin /> LinkedIn</a>
-</p>
-
-Or mail me at <span font-mono>st4rk.7<span i-carbon-at/>proton.me</span>
+Reach me at [@st4rk](https://t.me/i_st4rk) or [st4rk.7@proton.me](mailto:st4rk.7@proton.me).
