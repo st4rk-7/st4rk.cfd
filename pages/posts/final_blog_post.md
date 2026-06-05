@@ -52,7 +52,7 @@ If the chip won't read from Flash, what if I put the code somewhere it *will* re
 
 I wrote a custom linker script that puts everything — the vector table, the program code, the string constants, the variables — into RAM:
 
-```ld
+```text
 MEMORY
 {
   RAM (xrw) : ORIGIN = 0x20000000, LENGTH = 128K
