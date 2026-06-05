@@ -4,4 +4,4 @@ display: Blog
 description: Blog posts by Sanjeew Shewon
 ---
 
-<ListPosts />
+<ListPosts type="blog" />
